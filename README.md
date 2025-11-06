@@ -40,6 +40,9 @@ This project covers **authentication, product management, cart, protected routes
 
 ---
 
+<img width="1125" height="636" alt="image" src="https://github.com/user-attachments/assets/1ae29df6-7307-46a6-b3eb-b17282484416" />
+
+
 ##  Installation & Setup
 
 ### 1. Clone the repository

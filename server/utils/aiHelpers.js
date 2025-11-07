@@ -1,5 +1,6 @@
 export function detectCollection(question) {
   const q = question.toLowerCase();
+  
 
   if (q.includes("user") || q.includes("customer") || q.includes("email")) return "User";
   if (q.includes("order") || q.includes("invoice") || q.includes("status")) return "Order";

@@ -9,6 +9,7 @@ import { backendUrl } from "../config";
 import Cookies from "js-cookie";
 import QRCode from "qrcode";
 
+
 type OrdersProps = {
   token?: string;
 };
